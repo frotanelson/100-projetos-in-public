@@ -36,7 +36,7 @@ Trilha principal: **Python + dbt + Postgres + desenvolvimento com IA** (Claude C
 | # | Projeto | Stack | Status | Repo |
 |---|---|---|---|---|
 | 001 | **To-Do List App** — Gerenciador de tarefas web com adicionar, editar e excluir. | Python Web (Flask + HTMX) | ✅ | [001-todo-list-app](https://github.com/frotanelson/001-todo-list-app) |
-| 002 | **Markdown Note Generator** — Converte prompts em notas markdown formatadas com headers, listas e links. | Python CLI | ⬜ | — |
+| 002 | **Markdown Note Generator** — Converte prompts em notas markdown formatadas com headers, listas e links. | Python CLI | ✅ | [002-markdown-note-generator](https://github.com/frotanelson/002-markdown-note-generator) |
 | 003 | **Password Generator Tool** — Gerador de senhas seguras com tamanho e conjuntos de caracteres customizáveis. | Python CLI | ⬜ | — |
 | 004 | **Weather CLI Tool** — Busca dados de clima em API pública e exibe formatado no terminal. | Python CLI | ⬜ | — |
 | 005 | **Simple Calculator Web App** — Calculadora de navegador com operações matemáticas básicas. | Python Web (Flask + HTMX) | ⬜ | — |
